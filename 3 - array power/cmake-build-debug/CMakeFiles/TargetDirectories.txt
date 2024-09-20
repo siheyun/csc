@@ -1,0 +1,3 @@
+/Users/renangela/Desktop/cis 250/3 - array power/cmake-build-debug/CMakeFiles/3___array_power.dir
+/Users/renangela/Desktop/cis 250/3 - array power/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/renangela/Desktop/cis 250/3 - array power/cmake-build-debug/CMakeFiles/rebuild_cache.dir
